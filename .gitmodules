@@ -1,3 +1,6 @@
 [submodule "pack/bundle/start/vim-markdown"]
 	path = pack/bundle/start/vim-markdown
 	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "pack/bundle/start/vim-javascript"]
+	path = pack/bundle/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
